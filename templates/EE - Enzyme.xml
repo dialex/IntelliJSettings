@@ -1,0 +1,6 @@
+<templateSet group="EE - Enzyme">
+  <template name="it" value="it('$TEST_DESCRIPTION$', () =&gt; {&#10;  // Given&#10;  $END$&#10;  // When&#10;&#10;  // Then&#10;&#10;});" description="Template for Enzyme test" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST_DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
