@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.hamcrest.MatcherAssert.*" />
+        <added pattern="org.hamcrest.Matchers.*" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
