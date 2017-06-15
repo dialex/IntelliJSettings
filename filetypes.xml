@@ -6,6 +6,7 @@
       <mapping pattern="secrets" type="PLAIN_TEXT" />
       <mapping pattern="affiliateLinks" type="PLAIN_TEXT" />
       <mapping pattern="links" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
