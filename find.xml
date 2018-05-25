@@ -1,22 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="File '.../src/main/java/com/diogonunes/sandbox/MainSandbox.java [sandbox_main]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/diogonunes/sandbox/MainSandbox.java [sandbox_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/diogonunes/sandbox/MainSandbox.java [sandbox_main]'" />
     <option name="FILE_MASK" value="*.*" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.gradle</mask>
-      <mask>*.svg</mask>
-      <mask>*.js</mask>
-      <mask>*.*</mask>
-    </recentFileMasks>
   </component>
 </application>
