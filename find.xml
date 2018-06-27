@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/com/diogonunes/sandbox/MainSandbox.java [sandbox_main]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/diogonunes/sandbox/MainSandbox.java [sandbox_main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/diogonunes/sandbox/MainSandbox.java [sandbox_main]'" />
+    <option name="customScope" value="Project 'ui-testing-reach'" />
+    <option name="defaultScopeName" value="Project 'ui-testing-reach'" />
+    <option name="SEARCH_SCOPE" value="Project 'ui-testing-reach'" />
     <option name="FILE_MASK" value="*.*" />
   </component>
 </application>
