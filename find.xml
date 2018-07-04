@@ -1,8 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ui-testing-reach'" />
-    <option name="defaultScopeName" value="Project 'ui-testing-reach'" />
-    <option name="SEARCH_SCOPE" value="Project 'ui-testing-reach'" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
