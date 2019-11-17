@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern="docker-machine" type="PLAIN_TEXT" />
-      <mapping pattern="example" type="PLAIN_TEXT" />
-      <mapping pattern="links" type="PLAIN_TEXT" />
       <mapping pattern="resolvedLinks" type="PLAIN_TEXT" />
-      <mapping pattern="secrets" type="PLAIN_TEXT" />
-      <mapping pattern="xaa" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern="secrets" type="PLAIN_TEXT" />
+      <mapping pattern="links" type="PLAIN_TEXT" />
+      <mapping pattern="docker-machine" type="PLAIN_TEXT" />
+      <mapping pattern="xaa" type="PLAIN_TEXT" />
       <mapping pattern="affiliateLinks" type="PLAIN_TEXT" />
       <mapping pattern="djlkdkl" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
