@@ -3,7 +3,7 @@
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monaco" />
@@ -11,4 +11,5 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
 </scheme>
