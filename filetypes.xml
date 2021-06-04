@@ -14,8 +14,8 @@
       <mapping pattern="affiliateLinks" type="PLAIN_TEXT" />
       <mapping pattern="example" type="PLAIN_TEXT" />
       <mapping pattern="docker-machine" type="PLAIN_TEXT" />
-      <mapping pattern="xaa" type="PLAIN_TEXT" />
       <mapping pattern="links" type="PLAIN_TEXT" />
+      <mapping pattern="xaa" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
